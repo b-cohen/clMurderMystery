@@ -1,0 +1,51 @@
+body {
+    background-image: linear-gradient(to bottom right, white , navy);
+}
+.gradient, .MainBody{
+    margin: 0%;
+    padding: 0%;
+    height: 300%;
+}
+.aboutme{
+    font-size: 20pt;
+    position: absolute;
+    top: 75px;
+    left: 360px;
+}
+.home{
+    position: fixed;
+    top: 0px;
+    left: 10;
+}
+.about{
+    position: fixed;
+    top: 0px;
+    left: 675px;
+}
+.contact{
+    position: fixed;
+    top: 0px;
+    left: 1379px;
+}
+.test{
+    position: absolute;
+    top: 5000px;
+}
+.skills{
+    font-family:'Courier New', Courier, monospace;
+    border-spacing: 30px;
+    position: absolute;
+    top: 250px;
+    left: 320px;
+}
+.header{
+    position: absolute;
+    left: 390px;
+    font-size: 42pt;
+}
+.photo{
+    height: 400px;
+    position: absolute;
+    top: 15px;
+    left: 20px;
+}
